@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Комп'ютерна графіка",
+      "lecturer": null,
+      "type": "lecture",
+      "order": "1"
+    },
+    {
+      "title": "Системи баз даних",
+      "lecturer": "Сергєєв-Горчинський О. О.",
+      "type": "lecture",
+      "order": "2"
+    },
+    {
+      "title": "Системи баз даних",
+      "lecturer": "Сергєєв-Горчинський О. О.",
+      "type": "lab",
+      "order": "3"
+    },
+    {
+      "title": "Англійська мова",
+      "lecturer": "Духаніна Н. М.",
+      "type": "practice",
+      "order": "4"
+    }
+  ],
+  [
+    {
+      "title": "Комп'ютерна графіка",
+      "lecturer": null,
+      "type": "lecture",
+      "order": "1"
+    },
+    {
+      "title": "Системи баз даних",
+      "lecturer": "Сергєєв-Горчинський О. О.",
+      "type": "lecture",
+      "order": "2"
+    },
+    {
+      "title": "Системи баз даних",
+      "lecturer": "Сергєєв-Горчинський О. О.",
+      "type": "lab",
+      "order": "3"
+    },
+    {
+      "title": "Англійська мова",
+      "lecturer": "Духаніна Н. М.",
+      "type": "practice",
+      "order": "4"
+    }
+  ]
+]
